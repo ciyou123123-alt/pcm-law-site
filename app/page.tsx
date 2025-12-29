@@ -147,13 +147,13 @@ const TESTIMONIALS: Testimonial[] = [
   },
 ];
 
-// ✅ 页面内显示地图（iframe 专用）
+/// ✅ 页面内显示地图（iframe 专用）
 const GOOGLE_MAP_EMBED_SRC =
-  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.120977181!2d-116.53968892465433!3d33.86077297322966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80db195fdec11e89%3A0x1d0963269735bbf!2s3310%20Ambassador%20Dr%2C%20Palm%20Springs%2C%20CA%2092262%E7%BE%8E%E5%9B%BD!5e0!3m2!1szh-CN!2skh!4v1766974775945!5m2!1szh-CN!2skh";
+"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26504.940059875215!2d-116.536821!3d33.8608624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80db195fdec11e89%3A0x1d0963269735bbf!2s3310%20Ambassador%20Dr%2C%20Palm%20Springs%2C%20CA%2092262%2C%20USA!5e0!3m2!1sen!2skh!4v1766979627914!5m2!1sen!2skh";
 
 // ✅ 点击“在 Google Maps 中打开”
 const GOOGLE_MAP_OPEN_LINK =
-  "https://maps.app.goo.gl/8PdvHxEp5DyQGEs97";
+  "https://maps.app.goo.gl/vL6AX3f6PJLoDSKR8";
 
 
 export default function Home() {
