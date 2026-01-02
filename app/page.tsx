@@ -34,7 +34,7 @@ type TeamMember = {
 /** =========================
  *  常量数据：移到组件外
  *  ========================= */
-const BRAND_NAME = "Law Offices of Paul Christophe McCoy";
+const BRAND_NAME = "Ok";
 
 const SERVICES: ServiceItem[] = [
   {
