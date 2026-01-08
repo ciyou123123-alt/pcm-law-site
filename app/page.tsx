@@ -83,7 +83,6 @@ const TEAM: TeamMember[] = [
     bio:
       "David Andrew Thorpe is currently the Asia Pacific Head of this law firm, responsible for the overall coordination and management of related matters in the Asia Pacific region, with a focus on handling various cases related to online fraud and financial fraud. His areas of expertise include cryptocurrency fraud, investment fraud, bank fraud, account recovery assistance, general online fraud cases, and phishing prevention.David joined the firm in 2010, where he has long been involved in cross-border disputes and related support work. Following a shift in the firm's main service focus in 2020, he was relocated to Hong Kong to provide support and coordination services to victims of online fraud and cyber scams in the Asia Pacific region.Through his practice and management, David has accumulated extensive experience in handling cases across jurisdictions. In 2022, he assisted a Malaysian victim in recovering losses from an online fraud case, ultimately successfully recovering over US$3 million in related losses.Currently, David Andrew Thorpe focuses on the overall coordination, resource allocation, and management of online fraud cases in the Asia Pacific region, and continues to promote the development of cross-institutional and cross-regional cooperation mechanisms within the region.",
     email: "David@paulmccoylaw.com",
-    phone: "+852 (448) 748-23",
     website: "https://paulchristophemccoy.com",
     address: "Room 2305, 23/F, 1 Connaught Place, Central, Hong Kong",
     license: "#216498",
@@ -455,7 +454,7 @@ export default function Home() {
         <div className="mt-5 flex flex-wrap gap-3">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/+14313404081"
+            href="https://wa.me/111111"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-lg bg-[#C9A24B] px-5 py-2 text-sm font-semibold text-black hover:bg-[#D8B45A]"
