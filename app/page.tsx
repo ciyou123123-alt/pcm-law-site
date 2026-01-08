@@ -454,7 +454,7 @@ export default function Home() {
         <div className="mt-5 flex flex-wrap gap-3">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/111111"
+            href="https://wa.me/+14313404081"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-lg bg-[#C9A24B] px-5 py-2 text-sm font-semibold text-black hover:bg-[#D8B45A]"
