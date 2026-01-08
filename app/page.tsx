@@ -92,7 +92,7 @@ const TEAM: TeamMember[] = [
   {
     id: "tami",
     name: "Tami Anne Chen",
-    role: "North American Fraud Recovery Lawyer",
+    role: "North American Fraud Recovery Lawyer", 
     bio:
       "Tami Anne Chen is currently the lead attorney for cyber fraud cases in North America at this law firm, primarily responsible for the overall coordination and handling of cyber fraud and related fraud cases in North America. Her practice areas include cryptocurrency fraud, investment fraud, bank fraud, account recovery assistance, general cyber fraud cases, and phishing prevention.Tami joined the firm in 2014, focusing on domestic dispute resolution and related support work in the United States. She is familiar with the North American legal environment and inter-agency collaboration processes. As the firm adjusted and expanded its main service areas in 2020, her scope of services further broadened, including coordinating cyber fraud cases across North America and providing loss recovery and coordination support services for victims in cross-regional cyber fraud incidents.Through years of case handling and management, Tami has accumulated extensive experience across jurisdictions. In 2021, she assisted a victim in the New York area in recovering losses from a cyber fraud case, ultimately successfully recovering over $5 million in related losses.Currently, Tami Anne Chen continues to work on the front lines of case handling, focusing on the actual progress of online fraud cases in North America, resource coordination, and victim support, and is committed to helping more victims fight for and recover losses caused by online fraud within a legal and compliant framework.",
     email: "Tami@paulmccoylaw.com",
