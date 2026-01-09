@@ -108,7 +108,6 @@ const TEAM: TeamMember[] = [
     bio:
       "Daisy Anderson currently serves as the firm’s Asia-Pacific Asia-Pacific Online Legal Inquiry Intake Assistan, primarily responsible for handling online legal inquiries and initial client communications across various digital platforms, including but not limited to Facebook and TikTok.Daisy joined the firm in 2020 and has since been engaged in online legal support and preliminary case information coordination. Her primary responsibilities include providing pro bono initial legal information, procedural guidance, and solution references to victims of online fraud and related cybercrime, as well as assisting relevant teams in advancing subsequent case-handling processes.Through her involvement in case support and coordination, she has assisted more than 1000 victims of online fraud and helped over 800 individuals, within a lawful and compliant framework, recover losses resulting from online fraud.Currently, Daisy Anderson continues to work on the front lines of online consultations in the Asia-Pacific region, focusing on delivering timely and clear preliminary support through structured and efficient communication, while assisting the firm’s teams in advancing follow-up case processing.",
     email: "Daisy@paulmccoylaw.com",
-    phone: "+852 (445) 987-22",
     website: "https://paulchristophemccoy.com",
     address: "Room 2305, 23/F, 1 Connaught Place, Central, Hong Kong",
     avatar: "/paul-Daisy.png",
