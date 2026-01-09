@@ -119,7 +119,6 @@ const TEAM: TeamMember[] = [
     bio:
       "Emily Thompson currently serves as the firm’s North America Online Legal Inquiry Intake Assistant, primarily responsible for handling online legal inquiries and initial client communications across various digital platforms, including but not limited to Facebook and TikTok.Emily joined the firm in 2022 and has since been engaged in online legal support and preliminary case information coordination. Her primary responsibilities include providing pro bono initial legal information, procedural guidance, and solution references to victims of online fraud and related cybercrime, as well as assisting relevant teams in advancing subsequent case-handling processes.Through her involvement in case support and coordination, she has assisted more than 600 victims of online fraud and helped over 500 individuals, within a lawful and compliant framework, recover losses resulting from online fraud.Currently, Emily Thompson continues to work on the front lines of online consultations in the North America region, focusing on delivering timely and clear preliminary support through structured and efficient communication, while assisting the firm’s teams in advancing follow-up case processing.",
     email: "Emily@paulmccoylaw.com",
-    phone: "+1 (431) 340-4081",
     website: "https://paulchristophemccoy.com",
     address: "3310 Ambassador Dr, Palm Springs, CA",
     license: "",
